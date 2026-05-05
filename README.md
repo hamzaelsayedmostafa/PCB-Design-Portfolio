@@ -17,5 +17,4 @@ This PCB is designed to control motors efficiently with stable power delivery an
 #### 🔹 PCB Top
 ![PCB Top](motor_driver.png)
 
-#### 🔹 PCB Bottom
-![PCB Bottom](motor_driver_bottom.png)
+
